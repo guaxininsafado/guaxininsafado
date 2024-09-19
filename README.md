@@ -10,7 +10,7 @@
   Bem-vindo ao meu perfil GitHub! Sou um entusiasta de programação e tecnologia, atualmente estudando Engenharia de Software e sempre buscando novos desafios para aprender e crescer. 🚀
 </p>
 
-<!-- GIF de números de código se mexendo -->
+<!-- Números se mexendo em um fundo preto -->
 <p align="center">
-  <img src="https://c.tenor.com/2nKSTDDekOgAAAAC/matrix-code.gif" width="500">
+  <img src="https://i.gifer.com/7plz.gif" width="600">
 </p>
