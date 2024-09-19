@@ -1,14 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Oi 👋, Eu sou o Kayke 🦝</h1></summary>
-  </ul>
-</div>
+# Oi 👋, Eu sou o Kayke 🦝
 
-<p align="center">
-  Bem-vindo ao meu perfil GitHub! Sou um entusiasta de programação e tecnologia, atualmente estudando Engenharia de Software e sempre buscando novos desafios para aprender e crescer. 🚀
-</p>
+
+## Bem-vindo ao meu perfil GitHub! Sou um entusiasta de programação e tecnologia, atualmente estudando Engenharia de Software e sempre buscando novos desafios para aprender e crescer. 🚀
+
 
 <!-- Números se mexendo em um fundo preto, usando o GIF baixado -->
 <p align="center">
