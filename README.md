@@ -8,5 +8,5 @@
 
 <!-- Números se mexendo em um fundo preto, usando o GIF baixado -->
 <p align="center">
-  <img src="baixados.gif" width="600">
+  <img src="baixados.gif" width="300">
 </p>
