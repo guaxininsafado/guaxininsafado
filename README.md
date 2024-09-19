@@ -10,7 +10,7 @@
   Bem-vindo ao meu perfil GitHub! Sou um entusiasta de programação e tecnologia, atualmente estudando Engenharia de Software e sempre buscando novos desafios para aprender e crescer. 🚀
 </p>
 
-<!-- Números se mexendo em um fundo preto -->
+<!-- Números se mexendo em um fundo preto, usando o GIF baixado -->
 <p align="center">
-  <img src="https://i.gifer.com/7plz.gif" width="600">
+  <img src="baixados.gif" width="600">
 </p>
