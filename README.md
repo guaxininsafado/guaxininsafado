@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center">
 
-# Oi 👋, Eu sou o Kayke 🦝
+# Oi 👋 🦝
 
 
 ## Bem-vindo ao meu perfil GitHub! Sou um entusiasta de programação e tecnologia, atualmente estudando Engenharia de Software e sempre buscando novos desafios para aprender e crescer. 🚀
